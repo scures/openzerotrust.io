@@ -53,7 +53,7 @@ export default function Home() {
             </motion.div>
           </div>
         </div>
-
+        
         {/** 👀 How to section */}
         <div className='dark:bg-suse-pine_green bg-blue-50 relative'>
           <p className='text-3xl mt-10 font-bold text-center text-dark dark:text-white'>Why use Open Zero Trust?</p>
